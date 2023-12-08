@@ -3,7 +3,8 @@
 
 Here are some exercises I did during my journey through Python courses. I present a few exercises for each of the modules.
 
-1º Módulo:
+1º Módulo (estruturas básicas):
+
 - Primeiro contato com a linguagem (Entrada e Saída de dados);
 - Entendendo os operadores Aritméticos e Ordem de precedência;
 - Utilizando módulos da linguagem;
