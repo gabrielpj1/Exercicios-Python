@@ -1,3 +1,3 @@
-# Primeira interação !
+# Primeiro Contato:
 
 print('Olá, Mundo!')
