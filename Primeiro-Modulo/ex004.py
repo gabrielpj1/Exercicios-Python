@@ -1,3 +1,5 @@
+# Entendendo os dados da variável:
+
 resp = input('Digite algo: ')
 print('O tipo primitivo do que você digitou é: ', type(resp))
 print('É uma palavra: ', resp.isalpha())
